@@ -29,4 +29,9 @@ IoT 개발자과정 데이터베이스 - MySQL
 # 4일차
 1. MySQL 학습
     - MySQL 고급
+    - JOIN
+    - 테이블/뷰
+    - 인덱스
+2. MySQL 활용
+    - BookRentalShop 쿼리 연습
     
