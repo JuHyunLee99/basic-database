@@ -1,5 +1,5 @@
 # IoT-database
-![MySQL] (https://github.com/JuHyunLee99/IoT-database/tree/main/Images/MySQL.png)
+![MySQL] (https://raw.githubusercontent.com/JuHyunLee99/IoT-database/main/images/MySQL.png)
 IoT 개발자과정 데이터베이스 - MySQL
 
 # 1일차
