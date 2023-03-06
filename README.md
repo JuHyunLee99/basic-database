@@ -1,5 +1,5 @@
 # IoT-database
-IoT 개발자과정 데이터베이스 - MySQL
+IoT 개발자과정 데이터베이스 - MySQL  
 ![MySQL](https://raw.githubusercontent.com/JuHyunLee99/IoT-database/main/Images/MySQL.png)
 
 # 1일차
